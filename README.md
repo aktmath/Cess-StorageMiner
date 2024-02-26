@@ -76,7 +76,7 @@ Check yourself in the miner section : https://substats.cess.cloud/
 
 ### Increase Stake Amount
 ````
-cess bucket increase <amount>
+cess bucket increase staking <amount>
 ````
 
 
