@@ -111,7 +111,8 @@ cess pullimg
 cess down
 ````
 
-###Change your miner wallet
+### Change your miner wallet
+
 ````
 cess bucket update earnings <wallet address>
 ````
